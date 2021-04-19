@@ -1,5 +1,6 @@
 {
   "name": "cliente",
+  "homepage": "http://ec2-3-88-87-106.compute-1.amazonaws.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
