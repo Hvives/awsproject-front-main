@@ -1,6 +1,6 @@
 {
   "name": "cliente",
-  "homepage": "http://54.91.228.116",
+  "homepage": "http://ec2-54-91-228-116.compute-1.amazonaws.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
